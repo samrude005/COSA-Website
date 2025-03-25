@@ -1,7 +1,7 @@
 :root {
   /* Core Color System - Dark Theme */
   --primary-hue: 260;
-  --accent-hue: 165;
+/*   --accent-hue: 165; */
 
   /* Primary Colors */
   --primary-100: hsl(var(--primary-hue), 90%, 90%);
